@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
     <loc>https://umsumedan.github.io/daily/Mengatasi-kekalahan-saat-bermain-slot-dengan-cara-lebih-terkontrol-agar-peluang-tetap-terjaga-saat-mencoba-Kembali.html</loc>
@@ -17,6 +18,32 @@
         Mengatasi kekalahan saat bermain slot dengan cara lebih terkontrol agar peluang tetap terjaga saat mencoba kembali
       </news:title>
     </news:news>
+
+    <image:image>
+      <image:loc>https://image.solidteam.link/uploads/solidtoto-04.webp</image:loc>
+    </image:image>
+
+  </url>
+
+  <url>
+    <loc>https://umsumedan.github.io/daily/Strategi-menang-maksimal-slot-dengan-pola-efektif-hasil-lebih-stabil-seperti-yang-diterapkan-pemain-ahli.html</loc>
+
+    <news:news>
+      <news:publication>
+        <news:name>UMSU Medan Daily</news:name>
+        <news:language>id</news:language>
+      </news:publication>
+
+      <news:publication_date>2026-03-23T08:00:00+07:00</news:publication_date>
+
+      <news:title>
+        Strategi menang maksimal slot dengan pola efektif hasil lebih stabil seperti yang diterapkan pemain ahli
+      </news:title>
+    </news:news>
+
+    <image:image>
+      <image:loc>https://image.solidteam.link/uploads/solidtoto-15.webp</image:loc>
+    </image:image>
 
   </url>
 
